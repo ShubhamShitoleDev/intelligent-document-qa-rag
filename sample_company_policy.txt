@@ -1,0 +1,96 @@
+MARVELLOUS TECH SOLUTIONS PVT. LTD.
+Employee Handbook & HR Policy Document
+Effective Date: January 1, 2026
+
+---
+
+SECTION 1: LEAVE POLICY
+
+Employees are entitled to 24 days of paid annual leave per calendar year.
+Annual leave accrues at the rate of 2 days per month of service. Unused
+leave can be carried forward to the next year, up to a maximum of 10 days.
+Leave requests must be submitted at least 3 working days in advance through
+the HR portal, except in emergencies.
+
+Sick leave is granted separately, up to 12 days per year, and does not
+require advance notice but must be reported to the reporting manager on
+the same day.
+
+Maternity leave is 26 weeks as per statutory requirements. Paternity leave
+is 2 weeks, to be availed within 6 months of the child's birth.
+
+---
+
+SECTION 2: WORK FROM HOME POLICY
+
+Employees may work from home up to 2 days per week with prior approval
+from their reporting manager. Engineering and QA teams on active sprint
+deadlines may be asked to work from office during critical release weeks.
+
+All remote employees must be available on Slack and video calls during
+core hours: 10:00 AM to 4:00 PM IST.
+
+---
+
+SECTION 3: PROBATION PERIOD
+
+All new employees undergo a probation period of 3 months from their date
+of joining. During probation, employees are eligible for all standard
+benefits except annual leave carry-forward, which only applies after
+confirmation.
+
+Performance review at the end of probation determines confirmation. HR
+and the reporting manager jointly evaluate based on a standardized scorecard
+covering technical delivery, collaboration, and adherence to timelines.
+
+---
+
+SECTION 4: REIMBURSEMENT POLICY
+
+Employees can claim reimbursement for internet bills up to Rs. 1,500 per
+month when working from home, and mobile bills up to Rs. 1,000 per month
+for employees in client-facing or on-call roles.
+
+Travel reimbursement for client visits covers economy class flights, AC
+train travel, or standard cab fare, with prior manager approval required
+for expenses above Rs. 5,000.
+
+Reimbursement claims must be submitted within 30 days of the expense,
+along with valid bills, through the Finance portal.
+
+---
+
+SECTION 5: CODE OF CONDUCT
+
+Employees are expected to maintain professionalism in all official
+communication. Harassment of any kind, including verbal, physical, or
+online, is strictly prohibited and will result in immediate disciplinary
+action, up to and including termination.
+
+Conflicts of interest, including outside employment that competes with
+company business, must be disclosed to HR in writing.
+
+---
+
+SECTION 6: RESIGNATION AND NOTICE PERIOD
+
+The standard notice period is 60 days for confirmed employees and 15 days
+for employees on probation. Employees may buy out the remaining notice
+period subject to manager and HR approval, at a rate of one month's gross
+salary per month of notice bought out.
+
+Exit interviews are mandatory and are scheduled by HR within the final
+week of the notice period. Full and final settlement is processed within
+45 days of the last working day.
+
+---
+
+SECTION 7: PERFORMANCE APPRAISAL
+
+Performance appraisals are conducted twice a year, in April and October.
+Appraisals are based on a combination of self-assessment, manager review,
+and peer feedback (360-degree review) for employees at Senior Engineer
+level and above.
+
+Salary revisions, where applicable, are typically effective from the
+month following the appraisal cycle, subject to business approval.
